@@ -1,12 +1,12 @@
-# Community Guidelines for SD Live
+# Community Guidelines for Nothing Live
 
 **Effective Date:** July 23, 2026  
 **Last Updated:** July 23, 2026  
-**Package Name:** `com.dslivebd.app`
+**Package Name:** `com.nothinglive.app`
 
-Welcome to **SD Live**! Our mission is to provide a vibrant, fun, safe, and respectful environment where users around the world can connect, host live video broadcasts, enjoy audio voice rooms, play mini-games, and build positive communities.
+Welcome to **Nothing Live**! Our mission is to provide a vibrant, fun, safe, and respectful environment where users around the world can connect, host live video broadcasts, enjoy audio voice rooms, play mini-games, and build positive communities.
 
-These **Community Guidelines** apply to all users, hosts, agencies, and viewers on **SD Live**. By accessing or using the App, you agree to comply with these rules. We enforce a **ZERO TOLERANCE POLICY** for objectionable content, illegal activities, and abusive behavior.
+These **Community Guidelines** apply to all users, hosts, agencies, and viewers on **Nothing Live**. By accessing or using the App, you agree to comply with these rules. We enforce a **ZERO TOLERANCE POLICY** for objectionable content, illegal activities, and abusive behavior.
 
 ---
 
@@ -21,7 +21,7 @@ These **Community Guidelines** apply to all users, hosts, agencies, and viewers 
 
 ## 2. Zero-Tolerance & Prohibited Content
 
-The following types of content and behaviors are strictly forbidden across all areas of **SD Live** (including live streams, voice rooms, profile pictures, bios, status feeds, direct chats, and comments):
+The following types of content and behaviors are strictly forbidden across all areas of **Nothing Live** (including live streams, voice rooms, profile pictures, bios, status feeds, direct chats, and comments):
 
 ### A. Sexual Content & Nudity
 - Full or partial nudity, explicit sexual acts, or pornography.
@@ -41,11 +41,11 @@ The following types of content and behaviors are strictly forbidden across all a
 
 ### D. Fraud, Scams & Financial Exploitation
 - Soliciting money, bank details, or passwords under false pretenses.
-- Buying, selling, or trading virtual coins/diamonds outside official SD Live platforms or authorized portals.
+- Buying, selling, or trading virtual coins/diamonds outside official Nothing Live platforms or authorized portals.
 - Running unauthorized lotteries, pyramid schemes, or illegal gambling outside integrated in-app mini-games.
 
 ### E. Impersonation & Misinformation
-- Posing as SD Live official staff, moderators, celebrities, or other users to deceive others.
+- Posing as Nothing Live official staff, moderators, celebrities, or other users to deceive others.
 - Spreading malicious rumors, misinformation, or defamatory content.
 
 ### F. Intellectual Property & Copyright Violations
@@ -70,7 +70,7 @@ The following types of content and behaviors are strictly forbidden across all a
 
 ## 4. User Safety & In-App Reporting Tools
 
-SD Live empowers users to protect themselves and maintain community quality through the following safety tools:
+Nothing Live empowers users to protect themselves and maintain community quality through the following safety tools:
 
 - **Block User:** You can block any user at any time. Blocked users cannot message you, enter your private rooms, or view your feed.
 - **Report Content / User:** Tap the **Report** flag icon on any stream, profile, chat message, or post to alert our 24/7 Safety & Moderation Team.
@@ -95,7 +95,7 @@ Our automated moderation algorithms and 24/7 human moderation team review report
 
 If you believe your account was suspended or your live stream was terminated in error, you may submit an appeal:
 
-- **Email Support:** Send an email to **`sdlive@gmail.com`** with the subject **"Account Appeal - [User ID]"**.
+- **Email Support:** Send an email to **`nothinglive@gmail.com`** with the subject **"Account Appeal - [User ID]"**.
 - **Include:** Your User ID, registered email/phone, a detailed description of the incident, and any supporting evidence or context.
 
 Our Safety Team reviews all appeals within **48–72 hours**.
@@ -106,7 +106,7 @@ Our Safety Team reviews all appeals within **48–72 hours**.
 
 If you have questions about these Community Guidelines or wish to report a safety concern:
 
-- **App Name:** SD Live
-- **Package Name:** `com.dslivebd.app`
-- **Safety Email:** `sdlive@gmail.com`  
+- **App Name:** Nothing Live
+- **Package Name:** `com.nothinglive.app`
+- **Safety Email:** `nothinglive@gmail.com`  
 - **In-App Reporting:** Tap the **Report** button inside any stream or user profile.

@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Data Deletion & Retention Policy - SD Live",
-  description: "Data Deletion Policy, purging timelines, data retention exemptions, and erasure rights for SD Live.",
+  title: "Data Deletion & Retention Policy - Nothing Live",
+  description: "Data Deletion Policy, purging timelines, data retention exemptions, and erasure rights for Nothing Live.",
 };
 
 export default function DataDeletionPolicyPage() {
@@ -18,14 +18,14 @@ export default function DataDeletionPolicyPage() {
           <div className="flex flex-wrap gap-4 text-xs text-gray-400">
             <p><span className="font-semibold text-gray-300">Effective Date:</span> July 23, 2026</p>
             <p><span className="font-semibold text-gray-300">Last Updated:</span> July 23, 2026</p>
-            <p><span className="font-semibold text-gray-300">Package:</span> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.dslivebd.app</code></p>
+            <p><span className="font-semibold text-gray-300">Package:</span> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.nothinglive.app</code></p>
           </div>
         </div>
 
         <div className="space-y-8 text-gray-300 text-sm sm:text-base leading-relaxed">
           <div className="bg-white/5 border border-white/10 rounded-2xl p-6 space-y-3">
             <p>
-              This <strong className="text-white">Data Deletion Policy</strong> describes how <strong className="text-white">SD Live</strong> handles the deletion, purging, and retention of user data when an account is deleted or when data retention periods expire.
+              This <strong className="text-white">Data Deletion Policy</strong> describes how <strong className="text-white">Nothing Live</strong> handles the deletion, purging, and retention of user data when an account is deleted or when data retention periods expire.
             </p>
           </div>
 
@@ -33,7 +33,7 @@ export default function DataDeletionPolicyPage() {
           <section className="space-y-4 border-b border-white/5 pb-6">
             <h2 className="text-xl sm:text-2xl font-bold text-white">1. User Right to Data Erasure</h2>
             <p>
-              In accordance with global privacy regulations (GDPR, CCPA, and Google Play Data Policies), all users of <strong className="text-white">SD Live</strong> have the right to request the permanent deletion of their personal information and user-generated content.
+              In accordance with global privacy regulations (GDPR, CCPA, and Google Play Data Policies), all users of <strong className="text-white">Nothing Live</strong> have the right to request the permanent deletion of their personal information and user-generated content.
             </p>
           </section>
 
@@ -82,7 +82,7 @@ export default function DataDeletionPolicyPage() {
             </p>
             <ul className="list-disc pl-5 space-y-2 text-gray-300">
               <li><strong className="text-white">In-App:</strong> Profile &gt; Settings &gt; Account &amp; Security &gt; Delete Account.</li>
-              <li><strong className="text-white">Email Request:</strong> Send an email to <a href="mailto:sdlive@gmail.com" className="text-pink-400 font-mono underline">sdlive@gmail.com</a> with subject <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-300">&quot;Data Deletion Request&quot;</code>.</li>
+              <li><strong className="text-white">Email Request:</strong> Send an email to <a href="mailto:nothinglive@gmail.com" className="text-pink-400 font-mono underline">nothinglive@gmail.com</a> with subject <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-300">&quot;Data Deletion Request&quot;</code>.</li>
             </ul>
           </section>
 
@@ -91,12 +91,12 @@ export default function DataDeletionPolicyPage() {
             <h2 className="text-xl sm:text-2xl font-bold text-white">6. Contact Us</h2>
             <p>For questions regarding data retention or data privacy practices:</p>
             <div className="bg-white/5 p-6 rounded-2xl border border-white/10 space-y-3">
-              <p className="text-sm"><strong className="text-white">App Name:</strong> SD Live</p>
-              <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.dslivebd.app</code></p>
+              <p className="text-sm"><strong className="text-white">App Name:</strong> Nothing Live</p>
+              <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.nothinglive.app</code></p>
               <p className="text-sm">
                 <strong className="text-white">Privacy Email:</strong>{" "}
-                <a href="mailto:sdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  sdlive@gmail.com
+                <a href="mailto:nothinglive@gmail.com" className="text-pink-400 font-mono underline">
+                  nothinglive@gmail.com
                 </a>
               </p>
             </div>

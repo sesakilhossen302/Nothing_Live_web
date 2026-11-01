@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy - SD Live",
-  description: "SD Live Privacy Policy detailing data collection, device permissions, third-party services, and data deletion rights.",
+  title: "Privacy Policy - Nothing Live",
+  description: "Nothing Live Privacy Policy detailing data collection, device permissions, third-party services, and data deletion rights.",
 };
 
 export default function PrivacyPolicyPage() {
@@ -14,21 +14,21 @@ export default function PrivacyPolicyPage() {
           <span className="px-3 py-1 rounded-full bg-[#D4AF37]/20 text-[#D4AF37] text-xs font-bold uppercase tracking-wider">
             Legal Document
           </span>
-          <h1 className="text-3xl sm:text-5xl font-black text-white">Privacy Policy for SD Live</h1>
+          <h1 className="text-3xl sm:text-5xl font-black text-white">Privacy Policy for Nothing Live</h1>
           <div className="flex flex-wrap gap-4 text-xs text-gray-400">
             <p><span className="font-semibold text-gray-300">Effective Date:</span> July 23, 2026</p>
             <p><span className="font-semibold text-gray-300">Last Updated:</span> July 23, 2026</p>
-            <p><span className="font-semibold text-gray-300">Package:</span> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.dslivebd.app</code></p>
+            <p><span className="font-semibold text-gray-300">Package:</span> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.nothinglive.app</code></p>
           </div>
         </div>
 
         <div className="space-y-8 text-gray-300 text-sm sm:text-base leading-relaxed">
           <div className="bg-white/5 border border-white/10 rounded-2xl p-6 space-y-3">
             <p>
-              Welcome to <strong className="text-white">SD Live</strong> (referred to as &quot;we&quot;, &quot;us&quot;, &quot;our&quot;, or the &quot;App&quot;). We are committed to protecting your privacy and ensuring you have a safe and positive experience while using our live streaming, voice audio rooms, social networking, and interactive mini-game services.
+              Welcome to <strong className="text-white">Nothing Live</strong> (referred to as &quot;we&quot;, &quot;us&quot;, &quot;our&quot;, or the &quot;App&quot;). We are committed to protecting your privacy and ensuring you have a safe and positive experience while using our live streaming, voice audio rooms, social networking, and interactive mini-game services.
             </p>
             <p>
-              This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application <strong className="text-white">SD Live</strong> (Package: <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.dslivebd.app</code>). Please read this Privacy Policy carefully. By accessing or using the App, you agree to the collection and use of information in accordance with this policy.
+              This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application <strong className="text-white">Nothing Live</strong> (Package: <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.nothinglive.app</code>). Please read this Privacy Policy carefully. By accessing or using the App, you agree to the collection and use of information in accordance with this policy.
             </p>
             <p className="text-xs text-gray-400 italic">
               If you do not agree with the terms of this Privacy Policy, please do not access or use the App.
@@ -74,7 +74,7 @@ export default function PrivacyPolicyPage() {
           <section className="space-y-4 border-b border-white/5 pb-6">
             <h2 className="text-xl sm:text-2xl font-bold text-white">2. Device Permissions Required</h2>
             <p>
-              To provide live streaming, interactive audio rooms, and social features, <strong className="text-white">SD Live</strong> requests the following device permissions:
+              To provide live streaming, interactive audio rooms, and social features, <strong className="text-white">Nothing Live</strong> requests the following device permissions:
             </p>
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-3 pt-2">
               <li className="bg-white/5 p-3.5 rounded-xl border border-white/5 space-y-1">
@@ -143,7 +143,7 @@ export default function PrivacyPolicyPage() {
           <section className="space-y-4 border-b border-white/5 pb-6">
             <h2 className="text-xl sm:text-2xl font-bold text-white">4. Third-Party Services &amp; Data Processors</h2>
             <p>
-              We integrate trusted third-party SDKs and service providers to power core functionality in <strong className="text-white">SD Live</strong>. These third parties collect and process data in accordance with their respective privacy policies:
+              We integrate trusted third-party SDKs and service providers to power core functionality in <strong className="text-white">Nothing Live</strong>. These third parties collect and process data in accordance with their respective privacy policies:
             </p>
             
             <div className="space-y-4 pt-2">
@@ -178,7 +178,7 @@ export default function PrivacyPolicyPage() {
             <ul className="list-disc pl-5 space-y-2 text-gray-300">
               <li><strong className="text-white">Publicly Visible Data:</strong> Your display name, profile avatar, user ID, user level, VIP status, and public live room activities (e.g., public comments, gift logs, ranking leaderboards) are visible to other users in the App.</li>
               <li><strong className="text-white">Third-Party Service Providers:</strong> With vetted providers (such as Firebase and ZEGO Cloud) who assist in app delivery, cloud storage, and video processing under strict confidentiality terms.</li>
-              <li><strong className="text-white">Legal Compliance:</strong> If required by law, subpoena, court order, or government request, or to protect the safety, rights, or property of <strong className="text-white">SD Live</strong>, our users, or the public.</li>
+              <li><strong className="text-white">Legal Compliance:</strong> If required by law, subpoena, court order, or government request, or to protect the safety, rights, or property of <strong className="text-white">Nothing Live</strong>, our users, or the public.</li>
             </ul>
           </section>
 
@@ -199,8 +199,8 @@ export default function PrivacyPolicyPage() {
                 <li>
                   <strong className="text-white">Email Request Path:</strong><br />
                   If you cannot access your account, send an email request to our support team at{" "}
-                  <a href="mailto:sdlive@gmail.com" className="text-pink-400 font-mono underline">
-                    sdlive@gmail.com
+                  <a href="mailto:nothinglive@gmail.com" className="text-pink-400 font-mono underline">
+                    nothinglive@gmail.com
                   </a>{" "}
                   from your registered email address with the subject <strong className="text-white font-mono">&quot;Account Deletion Request&quot;</strong>.
                 </li>
@@ -220,12 +220,12 @@ export default function PrivacyPolicyPage() {
           <section className="space-y-4 border-b border-white/5 pb-6">
             <h2 className="text-xl sm:text-2xl font-bold text-white">7. Children&apos;s Privacy</h2>
             <p>
-              <strong className="text-white">SD Live</strong> is strictly intended for users who are <strong className="text-white">at least 13 years of age</strong> (or 18+ depending on local jurisdiction for live streaming/purchases). We do not knowingly solicit or collect personal information from children under the age of 13.
+              <strong className="text-white">Nothing Live</strong> is strictly intended for users who are <strong className="text-white">at least 13 years of age</strong> (or 18+ depending on local jurisdiction for live streaming/purchases). We do not knowingly solicit or collect personal information from children under the age of 13.
             </p>
             <p>
               If we learn that we have collected personal data from a child under 13 without verified parental consent, we will take immediate steps to delete that information and terminate the account. If you believe a child under 13 has provided us with personal data, please contact us at{" "}
-              <a href="mailto:sdlive@gmail.com" className="text-pink-400 font-mono underline">
-                sdlive@gmail.com
+              <a href="mailto:nothinglive@gmail.com" className="text-pink-400 font-mono underline">
+                nothinglive@gmail.com
               </a>.
             </p>
           </section>
@@ -268,12 +268,12 @@ export default function PrivacyPolicyPage() {
               If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
             </p>
             <div className="bg-white/5 p-6 rounded-2xl border border-white/10 space-y-3">
-              <p className="text-sm"><strong className="text-white">App Name:</strong> SD Live</p>
-              <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.dslivebd.app</code></p>
+              <p className="text-sm"><strong className="text-white">App Name:</strong> Nothing Live</p>
+              <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.nothinglive.app</code></p>
               <p className="text-sm">
                 <strong className="text-white">Developer / Support Email:</strong>{" "}
-                <a href="mailto:sdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  sdlive@gmail.com
+                <a href="mailto:nothinglive@gmail.com" className="text-pink-400 font-mono underline">
+                  nothinglive@gmail.com
                 </a>
               </p>
               <p className="text-sm"><strong className="text-white">In-App Support:</strong> Settings &gt; Feedback &amp; Help</p>

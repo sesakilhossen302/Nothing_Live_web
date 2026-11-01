@@ -6,27 +6,27 @@ import { ChevronDown, HelpCircle, Sparkles } from "lucide-react";
 
 const faqData = [
   {
-    question: "How do I download and install SD Live?",
+    question: "How do I download and install Nothing Live?",
     answer:
-      "You can download SD Live directly from the Google Play Store, Apple App Store, or download our official standalone APK directly from the Download page on this website. Installation takes less than 30 seconds.",
+      "You can download Nothing Live directly from the Google Play Store, Apple App Store, or download our official standalone APK directly from the Download page on this website. Installation takes less than 30 seconds.",
   },
   {
-    question: "Is SD Live free to use for broadcasers and viewers?",
+    question: "Is Nothing Live free to use for broadcasers and viewers?",
     answer:
-      "Yes! SD Live is 100% free to download, view streams, and broadcast. Viewers have the optional ability to purchase virtual gifts, diamonds, and VIP memberships to support their favorite creators.",
+      "Yes! Nothing Live is 100% free to download, view streams, and broadcast. Viewers have the optional ability to purchase virtual gifts, diamonds, and VIP memberships to support their favorite creators.",
   },
   {
-    question: "How do creators earn money on SD Live?",
+    question: "How do creators earn money on Nothing Live?",
     answer:
       "Creators earn money through virtual gifts sent by viewers during live streams, private room ticket sales, VIP subscriptions, and monthly creator performance bonuses. Earned diamonds can be cashed out instantly.",
   },
   {
     question: "What are the minimum system requirements for HD streaming?",
     answer:
-      "For Android, SD Live requires Android 8.0 or higher with at least 2GB of RAM. For iOS, it requires iOS 14.0 or higher. Our adaptive bitrate technology automatically adjusts quality based on your connection.",
+      "For Android, Nothing Live requires Android 8.0 or higher with at least 2GB of RAM. For iOS, it requires iOS 14.0 or higher. Our adaptive bitrate technology automatically adjusts quality based on your connection.",
   },
   {
-    question: "How does SD Live keep streams safe and moderated?",
+    question: "How does Nothing Live keep streams safe and moderated?",
     answer:
       "We utilize proprietary real-time AI moderation models alongside a dedicated 24/7 trust and safety team. Inappropriate content, spam, and policy violations are detected and removed within seconds.",
   },

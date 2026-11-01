@@ -18,7 +18,7 @@ export default function AboutSection() {
             Redefining <span className="text-gradient">Live Entertainment</span>
           </h2>
           <p className="text-gray-300 text-base sm:text-lg">
-            SD Live was born with a single passion: empowering creators with a luxury platform that turns talent into sustainable revenue while giving fans unforgettable interactive experiences.
+            Nothing Live was born with a single passion: empowering creators with a luxury platform that turns talent into sustainable revenue while giving fans unforgettable interactive experiences.
           </p>
         </div>
 
@@ -99,14 +99,14 @@ export default function AboutSection() {
 
         </div>
 
-        {/* Why SD Live Section */}
+        {/* Why Nothing Live Section */}
         <div className="p-8 sm:p-12 rounded-3xl glass-panel border border-white/10 space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <h3 className="text-2xl sm:text-4xl font-extrabold text-white">
-              Why <span className="text-gradient">SD Live?</span>
+              Why <span className="text-gradient">Nothing Live?</span>
             </h3>
             <p className="text-gray-300 text-sm sm:text-base">
-              Unlike traditional legacy platforms, SD Live prioritizes high bitrate video quality, creator earnings, and ultra-fast room loading speeds.
+              Unlike traditional legacy platforms, Nothing Live prioritizes high bitrate video quality, creator earnings, and ultra-fast room loading speeds.
             </p>
           </div>
 

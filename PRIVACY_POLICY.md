@@ -1,11 +1,11 @@
-# Privacy Policy for SD Live
+# Privacy Policy for Nothing Live
 
 **Effective Date:** July 23, 2026  
 **Last Updated:** July 23, 2026  
 
-Welcome to **SD Live** (referred to as "we", "us", "our", or the "App"). We are committed to protecting your privacy and ensuring you have a safe and positive experience while using our live streaming, voice audio rooms, social networking, and interactive mini-game services.
+Welcome to **Nothing Live** (referred to as "we", "us", "our", or the "App"). We are committed to protecting your privacy and ensuring you have a safe and positive experience while using our live streaming, voice audio rooms, social networking, and interactive mini-game services.
 
-This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application **SD Live** (Package: `com.dslivebd.app`). Please read this Privacy Policy carefully. By accessing or using the App, you agree to the collection and use of information in accordance with this policy.
+This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application **Nothing Live** (Package: `com.nothinglive.app`). Please read this Privacy Policy carefully. By accessing or using the App, you agree to the collection and use of information in accordance with this policy.
 
 If you do not agree with the terms of this Privacy Policy, please do not access or use the App.
 
@@ -32,7 +32,7 @@ We collect information to provide better services to all our users, ranging from
 
 ## 2. Device Permissions Required
 
-To provide live streaming, interactive audio rooms, and social features, **SD Live** requests the following device permissions:
+To provide live streaming, interactive audio rooms, and social features, **Nothing Live** requests the following device permissions:
 
 - **Camera (`CAMERA`):** Required to broadcast live video streams, participate in video rooms, and take profile pictures.
 - **Microphone (`RECORD_AUDIO`):** Required for live voice streaming, audio room mic seating, and voice message recording.
@@ -59,7 +59,7 @@ We use the collected information for the following core purposes:
 
 ## 4. Third-Party Services & Data Processors
 
-We integrate trusted third-party SDKs and service providers to power core functionality in **SD Live**. These third parties collect and process data in accordance with their respective privacy policies:
+We integrate trusted third-party SDKs and service providers to power core functionality in **Nothing Live**. These third parties collect and process data in accordance with their respective privacy policies:
 
 - **Google Play Services / Firebase (Google LLC)**
   - *Services:* Firebase Authentication, Cloud Firestore, Realtime Database, Cloud Storage, Firebase Cloud Messaging (FCM), Google Sign-In.
@@ -79,7 +79,7 @@ We do not sell your personal data. We may share your information under the follo
 
 - **Publicly Visible Data:** Your display name, profile avatar, user ID, user level, VIP status, and public live room activities (e.g., public comments, gift logs, ranking leaderboards) are visible to other users in the App.
 - **Third-Party Service Providers:** With vetted providers (such as Firebase and ZEGO Cloud) who assist in app delivery, cloud storage, and video processing under strict confidentiality terms.
-- **Legal Compliance:** If required by law, subpoena, court order, or government request, or to protect the safety, rights, or property of **SD Live**, our users, or the public.
+- **Legal Compliance:** If required by law, subpoena, court order, or government request, or to protect the safety, rights, or property of **Nothing Live**, our users, or the public.
 
 ---
 
@@ -91,7 +91,7 @@ In compliance with Google Play Developer Policies, users have the right to reque
 1. **In-App Deletion Path:**  
    Go to **Settings** > **Account & Security** > **Delete Account** inside the App and confirm your password/authentication.
 2. **Email Request Path:**  
-   If you cannot access your account, send an email request to our support team at **`sdlive@gmail.com`** from your registered email address with the subject **"Account Deletion Request"**.
+   If you cannot access your account, send an email request to our support team at **`nothinglive@gmail.com`** from your registered email address with the subject **"Account Deletion Request"**.
 
 ### What Happens Upon Deletion:
 - Your account credentials, profile details, user ID, status feeds, and personal data will be permanently deleted from our primary servers within **30 days**.
@@ -101,9 +101,9 @@ In compliance with Google Play Developer Policies, users have the right to reque
 
 ## 7. Children's Privacy
 
-**SD Live** is strictly intended for users who are **at least 13 years of age** (or 18+ depending on local jurisdiction for live streaming/purchases). We do not knowingly solicit or collect personal information from children under the age of 13.
+**Nothing Live** is strictly intended for users who are **at least 13 years of age** (or 18+ depending on local jurisdiction for live streaming/purchases). We do not knowingly solicit or collect personal information from children under the age of 13.
 
-If we learn that we have collected personal data from a child under 13 without verified parental consent, we will take immediate steps to delete that information and terminate the account. If you believe a child under 13 has provided us with personal data, please contact us at **`sdlive@gmail.com`**.
+If we learn that we have collected personal data from a child under 13 without verified parental consent, we will take immediate steps to delete that information and terminate the account. If you believe a child under 13 has provided us with personal data, please contact us at **`nothinglive@gmail.com`**.
 
 ---
 
@@ -132,6 +132,6 @@ You are advised to review this Privacy Policy periodically for any changes. Cont
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
 
-- **App Name:** SD Live
-- **Developer / Support Email:** `sdlive@gmail.com`  
+- **App Name:** Nothing Live
+- **Developer / Support Email:** `nothinglive@gmail.com`  
 - **In-App Support:** Settings > Feedback & Help  

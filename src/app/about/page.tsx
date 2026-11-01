@@ -4,8 +4,8 @@ import StatsSection from "@/components/StatsSection";
 import DownloadSection from "@/components/DownloadSection";
 
 export const metadata: Metadata = {
-  title: "About Us - SD Live",
-  description: "Learn about the mission, vision, and team driving the next generation of live streaming entertainment on SD Live.",
+  title: "About Us - Nothing Live",
+  description: "Learn about the mission, vision, and team driving the next generation of live streaming entertainment on Nothing Live.",
 };
 
 export default function AboutPage() {
@@ -19,7 +19,7 @@ export default function AboutPage() {
           Empowering <span className="text-gradient">Broadcasters Worldwide</span>
         </h1>
         <p className="text-gray-300 text-base sm:text-xl max-w-3xl mx-auto">
-          SD Live is designed from the ground up for artists, gamers, performers, and content creators who demand premium 1080p video quality and instant monetization.
+          Nothing Live is designed from the ground up for artists, gamers, performers, and content creators who demand premium 1080p video quality and instant monetization.
         </p>
       </div>
 

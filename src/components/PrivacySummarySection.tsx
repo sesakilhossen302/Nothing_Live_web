@@ -21,7 +21,7 @@ export default function PrivacySummarySection() {
             </h3>
 
             <p className="text-gray-300 text-sm sm:text-base leading-relaxed">
-              SD Live never sells user personal information or stream analytics to third parties. All chat transmissions, payment processing, and account telemetry are encrypted with TLS 1.3 protocol standards.
+              Nothing Live never sells user personal information or stream analytics to third parties. All chat transmissions, payment processing, and account telemetry are encrypted with TLS 1.3 protocol standards.
             </p>
 
             <div className="flex flex-wrap items-center justify-center md:justify-start gap-6 text-xs text-gray-300 pt-1">

@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "In-App Purchase & Refund Policy - SD Live",
-  description: "In-App Purchase and Refund Policy for SD Live virtual coins, diamonds, gifts, Google Play billing rules, and GPA receipt claims.",
+  title: "In-App Purchase & Refund Policy - Nothing Live",
+  description: "In-App Purchase and Refund Policy for Nothing Live virtual coins, diamonds, gifts, Google Play billing rules, and GPA receipt claims.",
 };
 
 export default function RefundPolicyPage() {
@@ -18,14 +18,14 @@ export default function RefundPolicyPage() {
           <div className="flex flex-wrap gap-4 text-xs text-gray-400">
             <p><span className="font-semibold text-gray-300">Effective Date:</span> July 23, 2026</p>
             <p><span className="font-semibold text-gray-300">Last Updated:</span> July 23, 2026</p>
-            <p><span className="font-semibold text-gray-300">Package:</span> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.dslivebd.app</code></p>
+            <p><span className="font-semibold text-gray-300">Package:</span> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.nothinglive.app</code></p>
           </div>
         </div>
 
         <div className="space-y-8 text-gray-300 text-sm sm:text-base leading-relaxed">
           <div className="bg-white/5 border border-white/10 rounded-2xl p-6 space-y-3">
             <p>
-              Thank you for using <strong className="text-white">SD Live</strong>! This <strong className="text-white">Refund Policy</strong> governs all in-app purchases, virtual currency (coins/diamonds), virtual gifts, VIP subscriptions, and digital items acquired within the <strong className="text-white">SD Live</strong> mobile application.
+              Thank you for using <strong className="text-white">Nothing Live</strong>! This <strong className="text-white">Refund Policy</strong> governs all in-app purchases, virtual currency (coins/diamonds), virtual gifts, VIP subscriptions, and digital items acquired within the <strong className="text-white">Nothing Live</strong> mobile application.
             </p>
           </div>
 
@@ -67,7 +67,7 @@ export default function RefundPolicyPage() {
               <div className="bg-white/5 p-4 rounded-xl border border-white/5 space-y-2">
                 <h3 className="text-lg font-semibold text-pink-400">B. Refunds After 48 Hours</h3>
                 <p className="text-xs sm:text-sm text-gray-300">
-                  If more than 48 hours have passed, refunds are handled at the sole discretion of <strong className="text-white">SD Live</strong> customer support under valid exceptional circumstances (e.g., unauthorized fraudulent transactions or technical billing glitches where coins were paid for but not credited).
+                  If more than 48 hours have passed, refunds are handled at the sole discretion of <strong className="text-white">Nothing Live</strong> customer support under valid exceptional circumstances (e.g., unauthorized fraudulent transactions or technical billing glitches where coins were paid for but not credited).
                 </p>
               </div>
             </div>
@@ -83,15 +83,15 @@ export default function RefundPolicyPage() {
                 <li><strong className="text-white">Do not repeat the purchase.</strong></li>
                 <li>
                   Send an email to{" "}
-                  <a href="mailto:sdlive@gmail.com" className="text-pink-400 font-mono underline">
-                    sdlive@gmail.com
+                  <a href="mailto:nothinglive@gmail.com" className="text-pink-400 font-mono underline">
+                    nothinglive@gmail.com
                   </a>{" "}
                   within <strong className="text-white">7 days</strong> of the purchase.
                 </li>
                 <li>
                   Include the following details:
                   <ul className="list-disc pl-5 pt-1 space-y-1 text-gray-300 text-xs sm:text-sm">
-                    <li>Your <strong className="text-white">SD Live User ID</strong>.</li>
+                    <li>Your <strong className="text-white">Nothing Live User ID</strong>.</li>
                     <li>Your <strong className="text-white">Google Play Order Receipt GPA Number</strong> (e.g., <code className="bg-white/10 px-1 py-0.5 rounded text-pink-300">GPA.1234-5678-9012-34567</code>).</li>
                     <li>Transaction date, time, and screenshot of purchase confirmation.</li>
                   </ul>
@@ -119,12 +119,12 @@ export default function RefundPolicyPage() {
             <h2 className="text-xl sm:text-2xl font-bold text-white">6. Contact Support</h2>
             <p>For purchase inquiries or billing assistance:</p>
             <div className="bg-white/5 p-6 rounded-2xl border border-white/10 space-y-3">
-              <p className="text-sm"><strong className="text-white">App Name:</strong> SD Live</p>
-              <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.dslivebd.app</code></p>
+              <p className="text-sm"><strong className="text-white">App Name:</strong> Nothing Live</p>
+              <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.nothinglive.app</code></p>
               <p className="text-sm">
                 <strong className="text-white">Billing Support Email:</strong>{" "}
-                <a href="mailto:sdlive@gmail.com" className="text-pink-400 font-mono underline">
-                  sdlive@gmail.com
+                <a href="mailto:nothinglive@gmail.com" className="text-pink-400 font-mono underline">
+                  nothinglive@gmail.com
                 </a>
               </p>
             </div>

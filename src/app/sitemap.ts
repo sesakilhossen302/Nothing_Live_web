@@ -1,7 +1,7 @@
 import { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://dslivebd.app";
+  const baseUrl = "https://nothinglive.app";
   const routes = [
     "",
     "/about",

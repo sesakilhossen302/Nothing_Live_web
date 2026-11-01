@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/private/",
     },
-    sitemap: "https://dslivebd.app/sitemap.xml",
+    sitemap: "https://nothinglive.app/sitemap.xml",
   };
 }

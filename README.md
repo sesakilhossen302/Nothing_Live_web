@@ -1,6 +1,6 @@
-# SD Live Website
+# Nothing Live Website
 
-Official website for **SD Live** — Next-Gen Live Streaming & Creator Economy mobile application (`com.dslivebd.app`).
+Official website for **Nothing Live** — Next-Gen Live Streaming & Creator Economy mobile application (`com.nothinglive.app`).
 
 ## Features
 - Built with **Next.js 14 (App Router)**, **React 18**, and **Tailwind CSS**.

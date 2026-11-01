@@ -47,25 +47,25 @@ export default function Navbar() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            <div className="relative w-11 h-11 rounded-xl bg-gradient-to-tr from-[#FF5E3A] via-[#FF2A6D] to-[#9B51E0] p-[2px] shadow-lg shadow-purple-500/25 group-hover:shadow-pink-500/50 transition-all duration-300">
-              <div className="w-full h-full bg-[#0a0c1a] rounded-[9px] flex items-center justify-center overflow-hidden p-1">
+            <div className="relative w-12 h-12 rounded-2xl bg-gradient-to-tr from-[#D4AF37] via-[#FFD700] to-[#9B51E0] p-[2px] shadow-lg shadow-amber-500/20 group-hover:shadow-amber-500/40 group-hover:scale-105 transition-all duration-300">
+              <div className="w-full h-full bg-[#0a0c1a] rounded-[14px] flex items-center justify-center overflow-hidden">
                 <Image
-                  src="/SD Live.png"
-                  alt="SD Live Logo"
-                  width={36}
-                  height={36}
+                  src="/logo.png"
+                  alt="Nothing Live Logo"
+                  width={48}
+                  height={48}
                   priority
                   unoptimized
-                  className="w-full h-full object-contain transform group-hover:scale-110 transition-transform duration-300"
+                  className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-300"
                 />
               </div>
             </div>
             <div className="flex flex-col">
               <span className="font-extrabold text-xl tracking-tight text-white flex items-center gap-1.5">
-                SD<span className="text-[#D4AF37]"> Live</span>
+                Nothing<span className="text-[#D4AF37]"> Live</span>
                 <span className="inline-block w-2 h-2 rounded-full bg-[#D4AF37] animate-pulse" />
               </span>
-              <span className="text-[10px] text-gray-400 tracking-widest uppercase font-medium">
+              <span className="text-[10px] text-amber-200/70 tracking-widest uppercase font-semibold">
                 Next-Gen Live
               </span>
             </div>
@@ -159,7 +159,7 @@ export default function Navbar() {
                   className="w-full py-3 rounded-xl font-bold text-center text-white btn-gradient flex items-center justify-center gap-2"
                 >
                   <Download className="w-5 h-5" />
-                  <span>Download SD Live</span>
+                  <span>Download Nothing Live</span>
                 </Link>
               </div>
             </div>
