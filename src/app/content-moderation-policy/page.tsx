@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Content Moderation Policy - Nothing Live",
-  description: "Content Moderation Policy, AI filtering, 24/7 human moderation workflows, severity levels, and appeals process for Nothing Live.",
+  title: "Content Moderation Policy - Tiamo Live Pro",
+  description: "Content Moderation Policy, AI filtering, 24/7 human moderation workflows, severity levels, and appeals process for Tiamo Live Pro.",
 };
 
 export default function ContentModerationPolicyPage() {
@@ -18,14 +18,14 @@ export default function ContentModerationPolicyPage() {
           <div className="flex flex-wrap gap-4 text-xs text-gray-400">
             <p><span className="font-semibold text-gray-300">Effective Date:</span> July 23, 2026</p>
             <p><span className="font-semibold text-gray-300">Last Updated:</span> July 23, 2026</p>
-            <p><span className="font-semibold text-gray-300">Package:</span> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.nothinglive.app</code></p>
+            <p><span className="font-semibold text-gray-300">Package:</span> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.tiamolivepro.app</code></p>
           </div>
         </div>
 
         <div className="space-y-8 text-gray-300 text-sm sm:text-base leading-relaxed">
           <div className="bg-white/5 border border-white/10 rounded-2xl p-6 space-y-3">
             <p>
-              At <strong className="text-white">Nothing Live</strong>, we are committed to maintaining a safe, healthy, and engaging digital space for all users. This <strong className="text-white">Content Moderation Policy</strong> outlines our systems, rules, workflows, and enforcement procedures for moderating user-generated content (UGC) across live video broadcasts, audio voice rooms, status feeds, comments, and direct messages.
+              At <strong className="text-white">Tiamo Live Pro</strong>, we are committed to maintaining a safe, healthy, and engaging digital space for all users. This <strong className="text-white">Content Moderation Policy</strong> outlines our systems, rules, workflows, and enforcement procedures for moderating user-generated content (UGC) across live video broadcasts, audio voice rooms, status feeds, comments, and direct messages.
             </p>
           </div>
 
@@ -33,7 +33,7 @@ export default function ContentModerationPolicyPage() {
           <section className="space-y-4 border-b border-white/5 pb-6">
             <h2 className="text-xl sm:text-2xl font-bold text-white">1. Moderation Framework &amp; System Overview</h2>
             <p>
-              Nothing Live uses a <strong className="text-white">hybrid moderation system</strong> combining artificial intelligence (automated proactive filters) and round-the-clock human moderation.
+              Tiamo Live Pro uses a <strong className="text-white">hybrid moderation system</strong> combining artificial intelligence (automated proactive filters) and round-the-clock human moderation.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
@@ -127,8 +127,8 @@ export default function ContentModerationPolicyPage() {
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-3">
               <p className="text-sm">
                 <strong className="text-white">Email:</strong>{" "}
-                <a href="mailto:nothinglive@gmail.com" className="text-pink-400 font-mono underline">
-                  nothinglive@gmail.com
+                <a href="mailto:tiamolivepro@gmail.com" className="text-pink-400 font-mono underline">
+                  tiamolivepro@gmail.com
                 </a>
               </p>
               <p className="text-sm"><strong className="text-white">Subject:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-300">&quot;Moderation Appeal - [User ID]&quot;</code></p>
@@ -141,12 +141,12 @@ export default function ContentModerationPolicyPage() {
             <h2 className="text-xl sm:text-2xl font-bold text-white">6. Contact Safety Team</h2>
             <p>For moderation concerns or safety inquiries:</p>
             <div className="bg-white/5 p-6 rounded-2xl border border-white/10 space-y-3">
-              <p className="text-sm"><strong className="text-white">App Name:</strong> Nothing Live</p>
-              <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.nothinglive.app</code></p>
+              <p className="text-sm"><strong className="text-white">App Name:</strong> Tiamo Live Pro</p>
+              <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.tiamolivepro.app</code></p>
               <p className="text-sm">
                 <strong className="text-white">Safety Email:</strong>{" "}
-                <a href="mailto:nothinglive@gmail.com" className="text-pink-400 font-mono underline">
-                  nothinglive@gmail.com
+                <a href="mailto:tiamolivepro@gmail.com" className="text-pink-400 font-mono underline">
+                  tiamolivepro@gmail.com
                 </a>
               </p>
             </div>

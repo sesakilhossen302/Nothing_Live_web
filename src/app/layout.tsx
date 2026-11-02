@@ -16,32 +16,32 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Nothing Live - Premium Live Streaming & Creator Platform",
+  title: "Tiamo Live Pro - Premium Live Streaming & Creator Platform",
   description:
     "Experience the next generation live streaming platform with HD video, interactive live rooms, virtual gifts, and instant creator monetization.",
   keywords: [
-    "Nothing Live",
-    "Nothing Live App",
+    "Tiamo Live Pro",
+    "Tiamo Live Pro App",
     "Live Streaming App",
     "Virtual Gifts",
     "Creator Earnings",
     "Private Live Rooms",
     "HD Broadcast",
   ],
-  authors: [{ name: "Nothing Live Team" }],
-  metadataBase: new URL("https://nothinglive.app"),
+  authors: [{ name: "Tiamo Live Pro Team" }],
+  metadataBase: new URL("https://tiamolivepro.app"),
   openGraph: {
-    title: "Nothing Live - Go Live. Connect. Earn.",
+    title: "Tiamo Live Pro - Go Live. Connect. Earn.",
     description:
-      "Join 100K+ broadcasers on Nothing Live. Stream in 1080p, chat in real-time, send 3D gifts, and monetize your content.",
-    url: "https://nothinglive.app",
-    siteName: "Nothing Live",
+      "Join 100K+ broadcasers on Tiamo Live Pro. Stream in 1080p, chat in real-time, send 3D gifts, and monetize your content.",
+    url: "https://tiamolivepro.app",
+    siteName: "Tiamo Live Pro",
     images: [
       {
         url: "/logo.png",
         width: 1200,
         height: 630,
-        alt: "Nothing Live Platform Preview",
+        alt: "Tiamo Live Pro Platform Preview",
       },
     ],
     locale: "en_US",
@@ -49,11 +49,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Nothing Live - Go Live. Connect. Earn.",
+    title: "Tiamo Live Pro - Go Live. Connect. Earn.",
     description:
       "Experience the next-gen live streaming mobile app with virtual gifts and instant payouts.",
     images: ["/logo.png"],
-    creator: "@nothinglive",
+    creator: "@tiamolivepro",
   },
   robots: {
     index: true,

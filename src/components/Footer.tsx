@@ -17,13 +17,15 @@ export default function Footer() {
           {/* Brand Info (4 cols) */}
           <div className="lg:col-span-4 space-y-4">
             <Link href="/" className="flex items-center gap-3 group">
-              <div className="relative w-12 h-12 rounded-2xl bg-gradient-to-tr from-[#D4AF37] via-[#FFD700] to-[#9B51E0] p-[2px] shadow-lg shadow-amber-500/20 group-hover:shadow-amber-500/40 group-hover:scale-105 transition-all duration-300">
-                <div className="w-full h-full bg-[#0a0c1a] rounded-[14px] flex items-center justify-center overflow-hidden">
-                  <Image src="/logo.png" alt="Nothing Live Logo" width={48} height={48} unoptimized className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-300" />
+              <div className="relative w-12 h-12 rounded-full bg-gradient-to-tr from-[#FF007A] via-[#FFD700] to-[#FF007A] p-[2px] shadow-lg shadow-pink-500/30 group-hover:shadow-pink-500/60 group-hover:scale-105 transition-all duration-300">
+                <div className="w-full h-full bg-[#0a0c1a] rounded-full flex items-center justify-center overflow-hidden">
+                  <Image src="/logo.png" alt="Tiamo Live Pro Logo" width={48} height={48} unoptimized className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-300" />
                 </div>
               </div>
-              <span className="font-black text-2xl tracking-tight text-white">
-                Nothing<span className="text-[#D4AF37]"> Live</span>
+              <span className="font-black text-2xl tracking-tight text-white flex items-center gap-1.5">
+                <span className="text-[#FF2A85]">Tiamo</span>
+                <span className="text-[#FFD700]">Live</span>
+                <span className="px-1.5 py-0.5 rounded-md text-[11px] font-black tracking-wider bg-gradient-to-r from-[#FF007A] to-[#FF2A85] text-white shadow-sm shadow-pink-500/50">PRO</span>
               </span>
             </Link>
 
@@ -127,7 +129,7 @@ export default function Footer() {
 
         {/* Bottom Bar Copyright */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-500">
-          <p>© {new Date().getFullYear()} Nothing Live Inc. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Tiamo Live Pro Inc. All rights reserved.</p>
           <p className="flex items-center gap-1">
             Made with <Heart className="w-3.5 h-3.5 text-[#D4AF37] fill-[#D4AF37]" /> for broadcasers worldwide.
           </p>

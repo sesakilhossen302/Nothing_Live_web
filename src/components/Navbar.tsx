@@ -47,11 +47,11 @@ export default function Navbar() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            <div className="relative w-12 h-12 rounded-2xl bg-gradient-to-tr from-[#D4AF37] via-[#FFD700] to-[#9B51E0] p-[2px] shadow-lg shadow-amber-500/20 group-hover:shadow-amber-500/40 group-hover:scale-105 transition-all duration-300">
-              <div className="w-full h-full bg-[#0a0c1a] rounded-[14px] flex items-center justify-center overflow-hidden">
+            <div className="relative w-12 h-12 rounded-full bg-gradient-to-tr from-[#FF007A] via-[#FFD700] to-[#FF007A] p-[2px] shadow-lg shadow-pink-500/30 group-hover:shadow-pink-500/60 group-hover:scale-105 transition-all duration-300">
+              <div className="w-full h-full bg-[#0a0c1a] rounded-full flex items-center justify-center overflow-hidden">
                 <Image
                   src="/logo.png"
-                  alt="Nothing Live Logo"
+                  alt="Tiamo Live Pro Logo"
                   width={48}
                   height={48}
                   priority
@@ -62,11 +62,13 @@ export default function Navbar() {
             </div>
             <div className="flex flex-col">
               <span className="font-extrabold text-xl tracking-tight text-white flex items-center gap-1.5">
-                Nothing<span className="text-[#D4AF37]"> Live</span>
-                <span className="inline-block w-2 h-2 rounded-full bg-[#D4AF37] animate-pulse" />
+                <span className="text-[#FF2A85]">Tiamo</span>
+                <span className="text-[#FFD700]">Live</span>
+                <span className="px-1.5 py-0.5 rounded-md text-[10px] font-black tracking-wider bg-gradient-to-r from-[#FF007A] to-[#FF2A85] text-white shadow-sm shadow-pink-500/50">PRO</span>
+                <span className="inline-block w-2 h-2 rounded-full bg-[#FF2A85] animate-pulse" />
               </span>
-              <span className="text-[10px] text-amber-200/70 tracking-widest uppercase font-semibold">
-                Next-Gen Live
+              <span className="text-[10px] text-pink-200/70 tracking-widest uppercase font-semibold">
+                Live Streaming App
               </span>
             </div>
           </Link>
@@ -159,7 +161,7 @@ export default function Navbar() {
                   className="w-full py-3 rounded-xl font-bold text-center text-white btn-gradient flex items-center justify-center gap-2"
                 >
                   <Download className="w-5 h-5" />
-                  <span>Download Nothing Live</span>
+                  <span>Download Tiamo Live Pro</span>
                 </Link>
               </div>
             </div>

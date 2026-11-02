@@ -12,7 +12,7 @@ export default function MobileFloatingDownload() {
       >
         <div className="flex items-center gap-2">
           <Sparkles className="w-4 h-4 text-amber-300 animate-spin" style={{ animationDuration: "5s" }} />
-          <span>Get Nothing Live Mobile</span>
+          <span>Get Tiamo Live Pro Mobile</span>
         </div>
         <div className="flex items-center gap-1.5 bg-black/40 px-3 py-1 rounded-full text-xs">
           <Download className="w-3.5 h-3.5" />

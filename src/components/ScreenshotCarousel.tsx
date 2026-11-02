@@ -60,7 +60,7 @@ export default function ScreenshotCarousel() {
             <span>App Showcase</span>
           </div>
           <h2 className="text-3xl sm:text-5xl font-extrabold text-white tracking-tight">
-            Explore <span className="text-gradient">Nothing Live</span>
+            Explore <span className="text-gradient">Tiamo Live Pro</span>
           </h2>
           <p className="text-gray-300 text-base sm:text-lg">
             Experience our home feed, interactive community timeline, and high-definition animated live broadcast rooms.

@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "DMCA & Copyright Policy - Nothing Live",
-  description: "Digital Millennium Copyright Act (DMCA) policies, takedown notices, counter-notification procedures, and three-strike policy for Nothing Live.",
+  title: "DMCA & Copyright Policy - Tiamo Live Pro",
+  description: "Digital Millennium Copyright Act (DMCA) policies, takedown notices, counter-notification procedures, and three-strike policy for Tiamo Live Pro.",
 };
 
 export default function CopyrightPolicyPage() {
@@ -18,17 +18,17 @@ export default function CopyrightPolicyPage() {
           <div className="flex flex-wrap gap-4 text-xs text-gray-400">
             <p><span className="font-semibold text-gray-300">Effective Date:</span> July 23, 2026</p>
             <p><span className="font-semibold text-gray-300">Last Updated:</span> July 23, 2026</p>
-            <p><span className="font-semibold text-gray-300">Package:</span> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.nothinglive.app</code></p>
+            <p><span className="font-semibold text-gray-300">Package:</span> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.tiamolivepro.app</code></p>
           </div>
         </div>
 
         <div className="space-y-8 text-gray-300 text-sm sm:text-base leading-relaxed">
           <div className="bg-white/5 border border-white/10 rounded-2xl p-6 space-y-3">
             <p>
-              <strong className="text-white">Nothing Live</strong> respects the intellectual property rights of creators, broadcasters, musicians, and artists. We expect all users, hosts, and content creators on our platform to do the same.
+              <strong className="text-white">Tiamo Live Pro</strong> respects the intellectual property rights of creators, broadcasters, musicians, and artists. We expect all users, hosts, and content creators on our platform to do the same.
             </p>
             <p className="text-xs text-gray-300">
-              In accordance with the <strong className="text-white">Digital Millennium Copyright Act (DMCA)</strong> and international copyright laws, <strong className="text-white">Nothing Live</strong> will respond expeditiously to notices of alleged copyright infringement committed using our application.
+              In accordance with the <strong className="text-white">Digital Millennium Copyright Act (DMCA)</strong> and international copyright laws, <strong className="text-white">Tiamo Live Pro</strong> will respond expeditiously to notices of alleged copyright infringement committed using our application.
             </p>
           </div>
 
@@ -36,11 +36,11 @@ export default function CopyrightPolicyPage() {
           <section className="space-y-4 border-b border-white/5 pb-6">
             <h2 className="text-xl sm:text-2xl font-bold text-white">1. Reporting Copyright Infringement (DMCA Takedown Notice)</h2>
             <p>
-              If you are a copyright owner, or authorized to act on behalf of one, and believe that any content hosted or broadcasted on <strong className="text-white">Nothing Live</strong> infringes upon your copyright, please submit a written DMCA Notice containing the following information:
+              If you are a copyright owner, or authorized to act on behalf of one, and believe that any content hosted or broadcasted on <strong className="text-white">Tiamo Live Pro</strong> infringes upon your copyright, please submit a written DMCA Notice containing the following information:
             </p>
             <ol className="list-decimal pl-5 space-y-2 text-gray-300">
               <li><strong className="text-white">Identification of Copyrighted Work:</strong> A description of the copyrighted work claimed to have been infringed (or a representative list of works).</li>
-              <li><strong className="text-white">Identification of Infringing Content:</strong> The exact URL, live stream ID, host user ID, or screenshot/link pointing to the infringing material on Nothing Live.</li>
+              <li><strong className="text-white">Identification of Infringing Content:</strong> The exact URL, live stream ID, host user ID, or screenshot/link pointing to the infringing material on Tiamo Live Pro.</li>
               <li><strong className="text-white">Contact Information:</strong> Your full legal name, company name (if applicable), physical address, telephone number, and email address.</li>
               <li><strong className="text-white">Good Faith Statement:</strong> A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.</li>
               <li><strong className="text-white">Accuracy &amp; Penalty Statement:</strong> A statement made under penalty of perjury that the information in the notification is accurate and that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</li>
@@ -48,7 +48,7 @@ export default function CopyrightPolicyPage() {
             </ol>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2 mt-3">
-              <p className="text-sm"><strong className="text-white">Designated Copyright Agent Email:</strong> <a href="mailto:nothinglive@gmail.com" className="text-pink-400 font-mono underline">nothinglive@gmail.com</a></p>
+              <p className="text-sm"><strong className="text-white">Designated Copyright Agent Email:</strong> <a href="mailto:tiamolivepro@gmail.com" className="text-pink-400 font-mono underline">tiamolivepro@gmail.com</a></p>
               <p className="text-sm"><strong className="text-white">Subject Line:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-300">&quot;DMCA Takedown Notice&quot;</code></p>
             </div>
           </section>
@@ -67,7 +67,7 @@ export default function CopyrightPolicyPage() {
               <li>Your physical or electronic signature.</li>
             </ol>
             <p className="text-sm">
-              Send counter-notices to <a href="mailto:nothinglive@gmail.com" className="text-pink-400 font-mono underline">nothinglive@gmail.com</a>.
+              Send counter-notices to <a href="mailto:tiamolivepro@gmail.com" className="text-pink-400 font-mono underline">tiamolivepro@gmail.com</a>.
             </p>
           </section>
 
@@ -75,7 +75,7 @@ export default function CopyrightPolicyPage() {
           <section className="space-y-4 border-b border-white/5 pb-6">
             <h2 className="text-xl sm:text-2xl font-bold text-white">3. Repeat Infringer Policy</h2>
             <p>
-              In accordance with DMCA guidelines and Google Play Policies, <strong className="text-white">Nothing Live</strong> enforces a <strong className="text-pink-400">Three-Strike Policy</strong> for repeat copyright infringers:
+              In accordance with DMCA guidelines and Google Play Policies, <strong className="text-white">Tiamo Live Pro</strong> enforces a <strong className="text-pink-400">Three-Strike Policy</strong> for repeat copyright infringers:
             </p>
             <ul className="list-disc pl-5 space-y-2 text-gray-300">
               <li><strong className="text-white">1st Strike:</strong> Removal of infringing content / immediate live stream termination + warning.</li>
@@ -88,12 +88,12 @@ export default function CopyrightPolicyPage() {
           <section className="space-y-4">
             <h2 className="text-xl sm:text-2xl font-bold text-white">4. Contact Copyright Team</h2>
             <div className="bg-white/5 p-6 rounded-2xl border border-white/10 space-y-3">
-              <p className="text-sm"><strong className="text-white">App Name:</strong> Nothing Live</p>
-              <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.nothinglive.app</code></p>
+              <p className="text-sm"><strong className="text-white">App Name:</strong> Tiamo Live Pro</p>
+              <p className="text-sm"><strong className="text-white">Package Name:</strong> <code className="bg-white/10 px-1.5 py-0.5 rounded text-pink-400">com.tiamolivepro.app</code></p>
               <p className="text-sm">
                 <strong className="text-white">Copyright Agent Email:</strong>{" "}
-                <a href="mailto:nothinglive@gmail.com" className="text-pink-400 font-mono underline">
-                  nothinglive@gmail.com
+                <a href="mailto:tiamolivepro@gmail.com" className="text-pink-400 font-mono underline">
+                  tiamolivepro@gmail.com
                 </a>
               </p>
             </div>

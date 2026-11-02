@@ -3,8 +3,8 @@ import DownloadSection from "@/components/DownloadSection";
 import FAQSection from "@/components/FAQSection";
 
 export const metadata: Metadata = {
-  title: "Download App - Nothing Live",
-  description: "Download Nothing Live for iOS and Android. Get direct APK downloads or install from official app stores.",
+  title: "Download App - Tiamo Live Pro",
+  description: "Download Tiamo Live Pro for iOS and Android. Get direct APK downloads or install from official app stores.",
 };
 
 export default function DownloadPage() {
@@ -15,7 +15,7 @@ export default function DownloadPage() {
           Mobile Downloads
         </span>
         <h1 className="text-4xl sm:text-6xl font-black text-white mt-4 mb-6">
-          Get <span className="text-gradient">Nothing Live Mobile</span>
+          Get <span className="text-gradient">Tiamo Live Pro Mobile</span>
         </h1>
         <p className="text-gray-300 text-base sm:text-xl max-w-3xl mx-auto">
           Compatible with all modern smartphones. Start streaming in less than 30 seconds with zero setup fees.

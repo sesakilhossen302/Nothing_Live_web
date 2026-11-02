@@ -1,6 +1,6 @@
-# Nothing Live Website
+# Tiamo Live Pro Website
 
-Official website for **Nothing Live** — Next-Gen Live Streaming & Creator Economy mobile application (`com.nothinglive.app`).
+Official website for **Tiamo Live Pro** — Next-Gen Live Streaming & Creator Economy mobile application (`com.tiamolivepro.app`).
 
 ## Features
 - Built with **Next.js 14 (App Router)**, **React 18**, and **Tailwind CSS**.

@@ -1,28 +1,28 @@
-# DMCA & Copyright Policy for Nothing Live
+# DMCA & Copyright Policy for Tiamo Live Pro
 
 **Effective Date:** July 23, 2026  
 **Last Updated:** July 23, 2026  
-**Package Name:** `com.nothinglive.app`
+**Package Name:** `com.tiamolivepro.app`
 
-**Nothing Live** respects the intellectual property rights of creators, broadcasters, musicians, and artists. We expect all users, hosts, and content creators on our platform to do the same.
+**Tiamo Live Pro** respects the intellectual property rights of creators, broadcasters, musicians, and artists. We expect all users, hosts, and content creators on our platform to do the same.
 
-In accordance with the **Digital Millennium Copyright Act (DMCA)** and international copyright laws, **Nothing Live** will respond expeditiously to notices of alleged copyright infringement committed using our application.
+In accordance with the **Digital Millennium Copyright Act (DMCA)** and international copyright laws, **Tiamo Live Pro** will respond expeditiously to notices of alleged copyright infringement committed using our application.
 
 ---
 
 ## 1. Reporting Copyright Infringement (DMCA Takedown Notice)
 
-If you are a copyright owner, or authorized to act on behalf of one, and believe that any content hosted or broadcasted on **Nothing Live** infringes upon your copyright, please submit a written DMCA Notice containing the following information:
+If you are a copyright owner, or authorized to act on behalf of one, and believe that any content hosted or broadcasted on **Tiamo Live Pro** infringes upon your copyright, please submit a written DMCA Notice containing the following information:
 
 1. **Identification of Copyrighted Work:** A description of the copyrighted work claimed to have been infringed (or a representative list of works).
-2. **Identification of Infringing Content:** The exact URL, live stream ID, host user ID, or screenshot/link pointing to the infringing material on Nothing Live.
+2. **Identification of Infringing Content:** The exact URL, live stream ID, host user ID, or screenshot/link pointing to the infringing material on Tiamo Live Pro.
 3. **Contact Information:** Your full legal name, company name (if applicable), physical address, telephone number, and email address.
 4. **Good Faith Statement:** A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 5. **Accuracy & Penalty Statement:** A statement made under penalty of perjury that the information in the notification is accurate and that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 6. **Signature:** A physical or electronic signature of the copyright owner or authorized representative.
 
 Submit your DMCA Notice to our designated Copyright Agent:
-- **Designated Copyright Agent Email:** `nothinglive@gmail.com`
+- **Designated Copyright Agent Email:** `tiamolivepro@gmail.com`
 - **Subject:** "DMCA Takedown Notice"
 
 ---
@@ -37,13 +37,13 @@ If your live stream, status post, or media file was removed due to a copyright t
 4. Your consent to the jurisdiction of applicable courts for legal proceedings.
 5. Your physical or electronic signature.
 
-Send counter-notices to **`nothinglive@gmail.com`**.
+Send counter-notices to **`tiamolivepro@gmail.com`**.
 
 ---
 
 ## 3. Repeat Infringer Policy
 
-In accordance with DMCA guidelines and Google Play Policies, **Nothing Live** enforces a **Three-Strike Policy** for repeat copyright infringers:
+In accordance with DMCA guidelines and Google Play Policies, **Tiamo Live Pro** enforces a **Three-Strike Policy** for repeat copyright infringers:
 
 - **1st Strike:** Removal of infringing content / immediate live stream termination + warning.
 - **2nd Strike:** 7-day broadcast ban and account feature restriction.
@@ -53,5 +53,5 @@ In accordance with DMCA guidelines and Google Play Policies, **Nothing Live** en
 
 ## 4. Contact Copyright Team
 
-- **App Name:** Nothing Live (`com.nothinglive.app`)
-- **Copyright Agent Email:** `nothinglive@gmail.com`
+- **App Name:** Tiamo Live Pro (`com.tiamolivepro.app`)
+- **Copyright Agent Email:** `tiamolivepro@gmail.com`

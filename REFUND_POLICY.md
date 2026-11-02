@@ -1,10 +1,10 @@
-# In-App Purchase & Refund Policy for Nothing Live
+# In-App Purchase & Refund Policy for Tiamo Live Pro
 
 **Effective Date:** July 23, 2026  
 **Last Updated:** July 23, 2026  
-**Package Name:** `com.nothinglive.app`
+**Package Name:** `com.tiamolivepro.app`
 
-Thank you for using **Nothing Live**! This **Refund Policy** governs all in-app purchases, virtual currency (coins/diamonds), virtual gifts, VIP subscriptions, and digital items acquired within the **Nothing Live** mobile application.
+Thank you for using **Tiamo Live Pro**! This **Refund Policy** governs all in-app purchases, virtual currency (coins/diamonds), virtual gifts, VIP subscriptions, and digital items acquired within the **Tiamo Live Pro** mobile application.
 
 ---
 
@@ -32,7 +32,7 @@ If you made a purchase less than 48 hours ago through Google Play In-App Billing
 - You can request a direct refund directly through Google Play by visiting your [Google Play Order History](https://play.google.com/store/account/orderhistory) or Google Play Support.
 
 ### B. Refunds After 48 Hours:
-If more than 48 hours have passed, refunds are handled at the sole discretion of **Nothing Live** customer support under valid exceptional circumstances (e.g., unauthorized fraudulent transactions or technical billing glitches where coins were paid for but not credited).
+If more than 48 hours have passed, refunds are handled at the sole discretion of **Tiamo Live Pro** customer support under valid exceptional circumstances (e.g., unauthorized fraudulent transactions or technical billing glitches where coins were paid for but not credited).
 
 ---
 
@@ -41,9 +41,9 @@ If more than 48 hours have passed, refunds are handled at the sole discretion of
 If you paid for coins or virtual items but did not receive them due to a technical server error:
 
 1. **Do not repeat the purchase.**
-2. Send an email to **`nothinglive@gmail.com`** within **7 days** of the purchase.
+2. Send an email to **`tiamolivepro@gmail.com`** within **7 days** of the purchase.
 3. Include the following details:
-   - Your **Nothing Live User ID**.
+   - Your **Tiamo Live Pro User ID**.
    - Your **Google Play Order Receipt GPA Number** (e.g., `GPA.1234-5678-9012-34567`).
    - Transaction date, time, and screenshot of purchase confirmation.
 
@@ -63,5 +63,5 @@ Initiating unauthorized credit card chargebacks or fraudulent refund claims whil
 ## 6. Contact Support
 
 For purchase inquiries or billing assistance:
-- **App Name:** Nothing Live (`com.nothinglive.app`)
-- **Billing Support Email:** `nothinglive@gmail.com`
+- **App Name:** Tiamo Live Pro (`com.tiamolivepro.app`)
+- **Billing Support Email:** `tiamolivepro@gmail.com`

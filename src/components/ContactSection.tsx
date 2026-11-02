@@ -37,8 +37,8 @@ export default function ContactSection() {
                 <div>
                   <p className="text-xs text-gray-400 font-medium">Official Support Email</p>
                   <p className="text-base font-bold text-white">
-                    <a href="mailto:nothinglive@gmail.com" className="hover:text-pink-400 transition-colors">
-                      nothinglive@gmail.com
+                    <a href="mailto:tiamolivepro@gmail.com" className="hover:text-pink-400 transition-colors">
+                      tiamolivepro@gmail.com
                     </a>
                   </p>
                 </div>

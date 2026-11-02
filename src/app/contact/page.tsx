@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import ContactSection from "@/components/ContactSection";
 
 export const metadata: Metadata = {
-  title: "Contact Us - Nothing Live",
-  description: "Get in touch with the Nothing Live support, creator partnership, and press teams.",
+  title: "Contact Us - Tiamo Live Pro",
+  description: "Get in touch with the Tiamo Live Pro support, creator partnership, and press teams.",
 };
 
 export default function ContactPage() {

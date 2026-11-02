@@ -1,16 +1,16 @@
-# Content Moderation Policy for Nothing Live
+# Content Moderation Policy for Tiamo Live Pro
 
 **Effective Date:** July 23, 2026  
 **Last Updated:** July 23, 2026  
-**Package Name:** `com.nothinglive.app`
+**Package Name:** `com.tiamolivepro.app`
 
-At **Nothing Live**, we are committed to maintaining a safe, healthy, and engaging digital space for all users. This **Content Moderation Policy** outlines our systems, rules, workflows, and enforcement procedures for moderating user-generated content (UGC) across live video broadcasts, audio voice rooms, status feeds, comments, and direct messages.
+At **Tiamo Live Pro**, we are committed to maintaining a safe, healthy, and engaging digital space for all users. This **Content Moderation Policy** outlines our systems, rules, workflows, and enforcement procedures for moderating user-generated content (UGC) across live video broadcasts, audio voice rooms, status feeds, comments, and direct messages.
 
 ---
 
 ## 1. Moderation Framework & System Overview
 
-Nothing Live uses a **hybrid moderation system** combining artificial intelligence (automated proactive filters) and round-the-clock human moderation.
+Tiamo Live Pro uses a **hybrid moderation system** combining artificial intelligence (automated proactive filters) and round-the-clock human moderation.
 
 ### A. Automated AI Filtering (Proactive)
 - **Text & Keyword Filtering:** Real-time text screen filters detect profane words, hate speech, sexual solicitation terms, contact number sharing, and scam links in live chats and bios.
@@ -57,7 +57,7 @@ To foster community-led safety, room hosts and designated co-hosts possess local
 ## 5. Appeals & Misaction Review
 
 Users who believe their stream was closed or account was penalized in error can submit an appeal:
-- **Email:** `nothinglive@gmail.com`
+- **Email:** `tiamolivepro@gmail.com`
 - **Subject:** "Moderation Appeal - [User ID]"
 - Appeals are reviewed by a senior safety supervisor within **48 hours**.
 
@@ -66,5 +66,5 @@ Users who believe their stream was closed or account was penalized in error can 
 ## 6. Contact Safety Team
 
 For moderation concerns or safety inquiries:
-- **App Name:** Nothing Live (`com.nothinglive.app`)
-- **Safety Email:** `nothinglive@gmail.com`
+- **App Name:** Tiamo Live Pro (`com.tiamolivepro.app`)
+- **Safety Email:** `tiamolivepro@gmail.com`

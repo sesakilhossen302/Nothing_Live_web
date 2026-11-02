@@ -1,11 +1,11 @@
-# Child Safety Standards & CSAM Policy for Nothing Live
+# Child Safety Standards & CSAM Policy for Tiamo Live Pro
 
 **Effective Date:** July 23, 2026  
 **Last Updated:** July 23, 2026  
-**Application Name:** Nothing Live  
-**Package Name:** `com.nothinglive.app`
+**Application Name:** Tiamo Live Pro  
+**Package Name:** `com.tiamolivepro.app`
 
-At **Nothing Live**, we are unconditionally committed to protecting children and creating a safe digital environment. We maintain a **ZERO TOLERANCE POLICY** toward Child Sexual Abuse Material (CSAM), Child Sexual Exploitation and Abuse (CSAE), grooming, and any form of harm or exploitation targeting minors.
+At **Tiamo Live Pro**, we are unconditionally committed to protecting children and creating a safe digital environment. We maintain a **ZERO TOLERANCE POLICY** toward Child Sexual Abuse Material (CSAM), Child Sexual Exploitation and Abuse (CSAE), grooming, and any form of harm or exploitation targeting minors.
 
 This document outlines our explicit **Child Safety Standards** in compliance with Google Play Developer Content Policies, international laws, and child protection regulations.
 
@@ -13,7 +13,7 @@ This document outlines our explicit **Child Safety Standards** in compliance wit
 
 ## 1. Zero Tolerance for CSAM / CSAE
 
-Nothing Live strictly prohibits:
+Tiamo Live Pro strictly prohibits:
 - **Child Sexual Abuse Material (CSAM):** Generating, uploading, streaming, storing, sharing, or linking to any visual, audio, or text representation of explicit sexual acts or nudity involving minors.
 - **Child Sexual Exploitation and Abuse (CSAE):** Any attempt to solicit, groom, coerce, harass, exploit, or blackmail a minor for sexual, financial, or personal purposes.
 - **Inappropriate Exposure:** Any live stream, voice room, profile image, or direct message depicting or exposing minors in a sexually suggestive, abusive, or dangerous manner.
@@ -22,7 +22,7 @@ Nothing Live strictly prohibits:
 
 ## 2. Age Restrictions & Account Policy
 
-- **Minimum Age Requirement:** Nothing Live is intended exclusively for users who are **at least 13 years of age** (or 18+ for live streaming hosting and financial transactions).
+- **Minimum Age Requirement:** Tiamo Live Pro is intended exclusively for users who are **at least 13 years of age** (or 18+ for live streaming hosting and financial transactions).
 - **Prohibition of Underage Accounts:** Children under the age of 13 are strictly prohibited from creating accounts, hosting live streams, or participating in audio voice rooms.
 - **Immediate Termination:** If an account is discovered to be operated by a child under 13, or if a minor is being exploited, the account will be immediately terminated, and all associated device IDs will be permanently blocked.
 
@@ -30,7 +30,7 @@ Nothing Live strictly prohibits:
 
 ## 3. Moderation & Technical Safeguards
 
-Nothing Live employs a multi-layered safety infrastructure to prevent, detect, and neutralize child safety threats:
+Tiamo Live Pro employs a multi-layered safety infrastructure to prevent, detect, and neutralize child safety threats:
 
 1. **Automated AI Content Filtering:** Text and media filtering systems detect keywords, abusive patterns, and known hash signatures associated with objectionable or explicit content.
 2. **24/7 Human Moderation Team:** Trained moderation staff review user reports, live broadcast feeds, audio room activity, and suspicious accounts around the clock.
@@ -43,7 +43,7 @@ Nothing Live employs a multi-layered safety infrastructure to prevent, detect, a
 
 In accordance with federal and international laws (including 18 U.S.C. § 2258A):
 
-- **Reporting to NCMEC:** Nothing Live promptly reports all instances of suspected CSAM or CSAE to the **National Center for Missing & Exploited Children (NCMEC)** via their CyberTipline.
+- **Reporting to NCMEC:** Tiamo Live Pro promptly reports all instances of suspected CSAM or CSAE to the **National Center for Missing & Exploited Children (NCMEC)** via their CyberTipline.
 - **Law Enforcement Cooperation:** We fully cooperate with local and international law enforcement agencies by preserving relevant evidence, log data, IP addresses, and account details to assist in the prosecution of offenders.
 - **Reporting to Google Play:** Severe violations involving child exploitation are escalated immediately to Google Play's Trust & Safety team.
 
@@ -51,17 +51,17 @@ In accordance with federal and international laws (including 18 U.S.C. § 2258A)
 
 ## 5. How to Report Child Safety Concerns
 
-If you encounter any content, account, live stream, or message on Nothing Live that jeopardizes child safety or involves CSAM/CSAE:
+If you encounter any content, account, live stream, or message on Tiamo Live Pro that jeopardizes child safety or involves CSAM/CSAE:
 
 1. **In-App Report:** Tap the **Report Flag Icon** on the stream, user profile, or chat message and select **"Child Safety / Abuse"**.
-2. **Direct Safety Contact:** Send an urgent email directly to our Child Safety Team at **`nothinglive@gmail.com`** with the subject **"URGENT: Child Safety Report"**.
+2. **Direct Safety Contact:** Send an urgent email directly to our Child Safety Team at **`tiamolivepro@gmail.com`** with the subject **"URGENT: Child Safety Report"**.
 3. **External Authorities:** You may also report CSAM directly to [NCMEC CyberTipline](https://report.cybertip.org/).
 
 ---
 
 ## 6. Continuous Review & Compliance
 
-Nothing Live regularly audits its safety policies, AI filters, and moderation workflows to adapt to emerging digital threats and maintain 100% compliance with Google Play Child Safety Guidelines.
+Tiamo Live Pro regularly audits its safety policies, AI filters, and moderation workflows to adapt to emerging digital threats and maintain 100% compliance with Google Play Child Safety Guidelines.
 
 ---
 
@@ -69,7 +69,7 @@ Nothing Live regularly audits its safety policies, AI filters, and moderation wo
 
 For official inquiries regarding our Child Safety Standards:
 
-- **App Name:** Nothing Live
-- **Package Name:** `com.nothinglive.app`
-- **Child Safety Contact:** `nothinglive@gmail.com`  
-- **General Support:** `nothinglive@gmail.com`  
+- **App Name:** Tiamo Live Pro
+- **Package Name:** `com.tiamolivepro.app`
+- **Child Safety Contact:** `tiamolivepro@gmail.com`  
+- **General Support:** `tiamolivepro@gmail.com`  
